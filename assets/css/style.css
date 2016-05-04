@@ -13,8 +13,18 @@ body {
 
 }
 
+#triviaHeader {
+	margin-left: 180px;
+	margin-right: 158px;
+	background-color: #99FF00;
+	font-size: 50px;
+	text-align: center;
+	padding-bottom: 50px;
+
+}
+
 h1 {
-	font-family: Georgia, serif;
+	font-size: 50px;
 }
 
 p {
@@ -28,5 +38,6 @@ p {
 
 #mickey {
 	text-align: center;
-	margin-left: 370px;
+	
 }
+

@@ -1,0 +1,32 @@
+.container {
+	width: 75%;
+	background-color: #99FF00;
+	text-align: center;
+	margin-left: 180px;
+
+}
+
+body {
+	background-image: url("https://secure.parksandresorts.wdpromedia.com/media/disneyparks/blog/wp-content/uploads/2015/11/disneykidswallpaper-f.jpg");
+	margin: 0;
+	padding: 0;
+
+}
+
+h1 {
+	font-family: Georgia, serif;
+}
+
+p {
+	font-size: 16px;
+}
+
+#countdownTimer {
+	background-color: red;
+	text-align: center;
+}
+
+#mickey {
+	text-align: center;
+	margin-left: 370px;
+}
